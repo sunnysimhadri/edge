@@ -1,0 +1,1 @@
+kubeadm join 192.168.204.81:6443 --token 260ild.xpo847u20ka6x67z --discovery-token-ca-cert-hash sha256:b8b754b638ab968decdab217aad4bbcbe9fae1e120536095a7f924bdfb3d698e
